@@ -1,3 +1,4 @@
 # MohammedKhanafer
 Hi I'm Mohammed, an aspiring programmer :)
-<h2> Python Projects </h2>
+
+Join me on my quest to become a profecient programmer
